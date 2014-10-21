@@ -6,3 +6,8 @@
 Icon?
 ehthumbs.db
 Thumbs.db
+*.iml
+pkg
+bin
+.idea
+out
